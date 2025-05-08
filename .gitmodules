@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:YoussefBushra/task-manager-api.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:YoussefBushra/task-manager-client.git
